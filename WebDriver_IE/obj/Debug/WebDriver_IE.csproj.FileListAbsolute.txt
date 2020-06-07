@@ -1,0 +1,12 @@
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\bin\Debug\WebDriver_IE.exe.config
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\bin\Debug\WebDriver_IE.exe
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\bin\Debug\WebDriver_IE.pdb
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\bin\Debug\WebDriver.dll
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\bin\Debug\WebDriver.Support.dll
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\bin\Debug\WebDriver.xml
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\bin\Debug\WebDriver.Support.xml
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\obj\Debug\WebDriver_IE.csprojAssemblyReference.cache
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\obj\Debug\WebDriver_IE.csproj.CoreCompileInputs.cache
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\obj\Debug\WebDriver_IE.csproj.CopyComplete
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\obj\Debug\WebDriver_IE.exe
+C:\Users\nohor\Desktop\CivilityCarev5\WebDriver_IE\obj\Debug\WebDriver_IE.pdb
